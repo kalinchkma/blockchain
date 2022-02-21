@@ -1,3 +1,3 @@
 # blockchain
--
-## Simple  Blockchain system implementation with 'javascripts/nodejs'
+
+## Simple  Blockchain system implementation with `javascripts/nodejs`
